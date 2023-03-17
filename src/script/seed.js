@@ -67,7 +67,7 @@ export const experience = [
     {
         role : "UX Designer",
         duration : "2022/2023",
-        companyName : "YouTube",
+        companyName : "Inoxoft",
         brief : "Affronting imprudence do he he everything. drink lasted dinner wanted indeed wished out law.",
     },
     {
